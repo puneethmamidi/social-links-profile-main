@@ -27,7 +27,7 @@ h1{
 }
 
 .content p:nth-of-type(1){
-    color:#c4e24d;
+    color:#c8ec39;
     font-size: 0.94rem;
     position: relative;
     bottom:0.7em;
@@ -59,7 +59,7 @@ a{
     color: #D6D6D6;
 }
 a:hover{
-    background-color:#c4e24d;
+    background-color:#c8ec39;
     color: #141414;
 }
 
